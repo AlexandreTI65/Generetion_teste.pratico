@@ -1,0 +1,11 @@
+vaga_id,unidade_id,cidade_unidade,setor,andar,tipo_vaga,tarifa_hora
+1,1,Diadema,C,1º andar,carro,"7,09"
+2,1,São Caetano do Sul,A,3º andar,carro,"5,45"
+3,2,Santo André,A,1º andar,utilitario,"14,75"
+4,5,São Paulo,B,3º andar,utilitario,"9,17"
+5,1,Santo André,D,2º andar,moto,"7,33"
+6,3,Diadema,A,3º andar,carro,"10,38"
+7,3,São Caetano do Sul,C,Térreo,utilitario,"11,89"
+8,1,São Paulo,A,2º andar,utilitario,"14,28"
+9,3,São Caetano do Sul,B,Térreo,carro,"14,92"
+10,3,Diadema,B,Térreo,moto,"9,17"
